@@ -40,7 +40,7 @@ Subject?
 * #### 카메라가 켜지지 않으면 코드에서 ctrl + f 를 누르고, dev/cam1 에서의 1을 0으로 변경, 또는 사용자 환경에 맞게 변경
 
 
-6.Executing videos
+6.Videos
 -----------------------
 * <https://youtu.be/wz1IoBTvRQg>
 
